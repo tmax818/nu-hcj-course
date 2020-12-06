@@ -21,3 +21,9 @@ cp helloWorld.html helloWorld.txt
 4. Exercise: Set up an HTML Document
 
 - create [install-extension.html](install-extension.html)
+
+# Structuring the HTML Body
+
+2. Exercise: Adding to the HTML Body
+
+- modify [install-extension.html](install-extension.html)

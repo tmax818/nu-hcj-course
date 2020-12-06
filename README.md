@@ -30,4 +30,4 @@ cp helloWorld.html helloWorld.txt
 
 3. Exercise: Install Live Server Extension
 
-- 
+- Install the extension!!

@@ -27,3 +27,7 @@ cp helloWorld.html helloWorld.txt
 2. Exercise: Adding to the HTML Body
 
 - modify [install-extension.html](install-extension.html)
+
+3. Exercise: Install Live Server Extension
+
+- 

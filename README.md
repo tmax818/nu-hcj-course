@@ -18,5 +18,6 @@ touch helloWorld.html
 cp helloWorld.html helloWorld.txt
 ```
 
+4. Exercise: Set up an HTML Document
 
-
+- create [install-extension.html](install-extension.html)

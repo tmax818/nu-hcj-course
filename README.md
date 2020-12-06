@@ -4,6 +4,7 @@
 
 1. Understanding HTML Elements
 
+2. Exercise: HTML Hello World
 
 
 
